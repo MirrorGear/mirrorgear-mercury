@@ -1,0 +1,18 @@
+{
+    "name": "MercuryUnityEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bf6ee07c7d5fc08428a86eb3d5a39df9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
